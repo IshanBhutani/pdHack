@@ -1,0 +1,12 @@
+E:\Projects\Drive\Drive\bin\Debug\Drive.exe.config
+E:\Projects\Drive\Drive\bin\Debug\Drive.exe
+E:\Projects\Drive\Drive\bin\Debug\Drive.pdb
+E:\Projects\Drive\Drive\obj\Debug\Drive.csprojResolveAssemblyReference.cache
+E:\Projects\Drive\Drive\obj\Debug\Drive.exe
+E:\Projects\Drive\Drive\obj\Debug\Drive.pdb
+E:\Projects\New folder\New folder\Drive\Drive\bin\Debug\Drive.exe.config
+E:\Projects\New folder\New folder\Drive\Drive\obj\Debug\Drive.exe
+E:\Projects\New folder\New folder\Drive\Drive\obj\Debug\Drive.pdb
+E:\Projects\New folder\New folder\Drive\Drive\bin\Debug\Drive.exe
+E:\Projects\New folder\New folder\Drive\Drive\bin\Debug\Drive.pdb
+E:\Projects\New folder\New folder\Drive\Drive\obj\Debug\Drive.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Projects\Drive\Drive\bin\Release\Drive.exe.config
+E:\Projects\Drive\Drive\bin\Release\Drive.exe
+E:\Projects\Drive\Drive\bin\Release\Drive.pdb
+E:\Projects\Drive\Drive\obj\Release\Drive.exe
+E:\Projects\Drive\Drive\obj\Release\Drive.pdb
